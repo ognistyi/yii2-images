@@ -12,7 +12,7 @@
  * @property string $urlAlias
  */
 
-namespace rico\yii2images\models;
+namespace ognistyi\yii2images\models;
 
 use Yii;
 use yii\base\Exception;

@@ -6,7 +6,7 @@
  * Time: 16:58
  */
 
-namespace rico\yii2images\behaviors;
+namespace ognistyi\yii2images\behaviors;
 
 use rico\yii2images\models\Image;
 

@@ -1,5 +1,8 @@
 <?php
 
+namespace ognistyi\yii2images\migrations;
+
+
 class m140622_111540_create_image_table extends \yii\db\Migration
 {
     public function up()

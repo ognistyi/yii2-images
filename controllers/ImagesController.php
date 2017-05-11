@@ -6,7 +6,7 @@
  * Time: 15:35
  */
 
-namespace rico\yii2images\controllers;
+namespace ognistyi\yii2images\controllers;
 
 use yii\web\Controller;
 use yii;

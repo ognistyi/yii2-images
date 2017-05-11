@@ -6,7 +6,7 @@
  * Time: 0:20
  */
 
-namespace rico\yii2images;
+namespace ognistyi\yii2images;
 
 
 use yii\base\Exception;
